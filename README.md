@@ -9,7 +9,7 @@
 - 🌴 Nacionalidad [🇵🇪 **Argentina**] de nacimiento pero con corazón 100% [🇵🇪 **Peruano**].
 - 💬 Mi lengua materna es **Español** Pero aprendiendo **Inglés** por que la vida lo pide. 
 - 🎓 Actualmente estudio **Desarrollo de Software** en la [ISIL](https://isil.pe/).
-- 🍎 Aprendiendo **JavaScript** , **C#** Y sistemas comunes de bases de datos como **MongoDB** y **MySQL**.
+- 🧮 Aprendiendo **JavaScript** , **C#** Y sistemas comunes de bases de datos como **MongoDB** y **MySQL**.
 - 👩‍💻 **C++** is my limit. 
 
 ## 💻 Lenguajes y herramientas:
